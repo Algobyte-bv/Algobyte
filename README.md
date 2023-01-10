@@ -16,7 +16,7 @@ git clone --depth 1 https://github.com/<your_user_name>/Algobyte.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Algobyte.git
+cd Algobyte
 ```
 
 **4.** Add a reference(remote) to the original repository.
